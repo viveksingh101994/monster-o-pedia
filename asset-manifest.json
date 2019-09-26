@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-o-pedia/static/css/main.625f462e.chunk.css",
+    "main.js": "/monster-o-pedia/static/js/main.3778d731.chunk.js",
+    "main.js.map": "/monster-o-pedia/static/js/main.3778d731.chunk.js.map",
+    "runtime-main.js": "/monster-o-pedia/static/js/runtime-main.6aafe4e8.js",
+    "runtime-main.js.map": "/monster-o-pedia/static/js/runtime-main.6aafe4e8.js.map",
+    "static/js/2.e6b78215.chunk.js": "/monster-o-pedia/static/js/2.e6b78215.chunk.js",
+    "static/js/2.e6b78215.chunk.js.map": "/monster-o-pedia/static/js/2.e6b78215.chunk.js.map",
+    "index.html": "/monster-o-pedia/index.html",
+    "precache-manifest.779e6adafc0b3c1a02b3efc68b94eb6d.js": "/monster-o-pedia/precache-manifest.779e6adafc0b3c1a02b3efc68b94eb6d.js",
+    "service-worker.js": "/monster-o-pedia/service-worker.js",
+    "static/css/main.625f462e.chunk.css.map": "/monster-o-pedia/static/css/main.625f462e.chunk.css.map"
+  }
+}
